@@ -7,8 +7,8 @@
     "start": "webpack-dev-server",
     "production": "webpack -p"
   },
-  "author": "Tyler McGinnis <tylermcginnis33@gmail.com> (http://tylermcginnis.com)",
-  "license": "ISC",
+  "author": "AnnMarie Torres <AnnMarieTorres@outlook.com> (http://nameincode.com)",
+  "license": "",
   "dependencies": {
     "react": "^0.14.8",
     "react-dom": "^0.14.8"
